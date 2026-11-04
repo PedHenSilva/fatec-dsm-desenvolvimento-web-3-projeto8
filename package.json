@@ -1,0 +1,12 @@
+{
+  "name": "controle-estoque",
+  "version": "1.0.0",
+  "description": "Sistema de controle de estoque com Node.js puro e BrasilAPI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

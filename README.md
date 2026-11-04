@@ -92,6 +92,3 @@ A API possui validações rígidas no back-end para garantir a integridade dos d
     ├── app.js           # Lógica do Front-end, consumo da BrasilAPI e fetch()
     └── style.css        # Estilização visual (Destaque para Estoque Baixo)
 ```
-
-- [Nome do Aluno 1] - [RA/FATEC]
-- [Nome do Aluno 2] - [RA/FATEC]
